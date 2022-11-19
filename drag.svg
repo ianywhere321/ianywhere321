@@ -7,8 +7,8 @@
                 /** end for goo container **/
                 .glowy-blob {
                     position: absolute;
-                    left: 50%;
-                    top: 50%;
+                    left: 45%;
+                    top: 25%;
                     -moz-transform: translate(-50, -50);
                     -ms-transform: translate(-50, -50);
                     -webkit-transform: translate(-50, -50);
