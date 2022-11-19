@@ -4,25 +4,6 @@
             <style>
                 @import url("https://fonts.googleapis.com/css?family=Chewy|Gloria+Hallelujah");
 
-                html {
-                    height: 100%;
-                    width: 100%;
-                }
-
-                body {
-                    margin: 0;
-                    padding: 0;
-                    height: 100%;
-                    width: 100%;
-                    background: #121327;
-                    overflow: hidden;
-                    -webkit-filter: hue-rotate(0deg);
-                    filter: hue-rotate(0deg);
-                    -moz-animation: huerot 5s ease infinite;
-                    -webkit-animation: huerot 5s ease infinite;
-                    animation: huerot 5s ease infinite;
-                }
-
                 /** end for goo container **/
                 .glowy-blob {
                     position: absolute;
