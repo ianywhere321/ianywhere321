@@ -1087,33 +1087,6 @@
                     cursor: default;
                 }
 
-                span {
-                    color: #85ede8;
-                    opacity: 0.5;
-                    font-size: 24px;
-                    font-family: "Chewy";
-                    font-weight: bolder;
-                    text-transform: uppercase;
-                    letter-spacing: 1px;
-                    position: absolute;
-                    left: 50%;
-                    top: 30%;
-                    -moz-transform: translate(-50, -50);
-                    -ms-transform: translate(-50, -50);
-                    -webkit-transform: translate(-50, -50);
-                    transform: translate(-50, -50);
-                    -webkit-touch-callout: none;
-                    /* iOS Safari */
-                    -moz-user-select: -moz-none;
-                    -ms-user-select: none;
-                    -webkit-user-select: none;
-                    user-select: none;
-                }
-
-                span:hover {
-                    cursor: default;
-                }
-
                 @-moz-keyframes huerot {
                     0% {
                         filter: hue-rotate(0deg);
@@ -1186,8 +1159,6 @@
                 <div></div>
                 <div></div>
             </div>
-
-            <span>Drag</span>
         </div>
     </foreignObject>
     <defs>
